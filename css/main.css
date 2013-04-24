@@ -1,0 +1,41 @@
+/* main css - for SingPass mockup site */
+
+#header{
+	height: 100px;
+	background: url('../img/sp_header.png') no-repeat center;
+}
+
+h3{
+	text-align: center;
+	color: #999;
+	padding-top: 30px;
+}
+
+
+form{
+	width: 600px;
+	height: 800px;
+	margin: 0px auto;
+	padding: 60px;
+}
+
+
+.small{
+	font-size: 0.85em;
+}
+
+.btn{
+	margin: 20px 0px;
+}
+
+#secure{
+	width: 70px;
+	margin-left: 30px;
+}
+
+.help{
+	font-size: 1.1em;
+	position: absolute;
+	top: 100px;
+	right: 330px;
+}
